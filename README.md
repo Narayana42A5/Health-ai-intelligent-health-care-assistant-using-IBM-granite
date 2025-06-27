@@ -20,5 +20,5 @@ link:
 
 
 
-Built with by Narayana,vedanth,geeth sai,bhuvana sai,ravi teja
+Built with by Narayana,vedanth,geeth sai,bhuvana sai and ravi teja
 
