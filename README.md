@@ -16,7 +16,7 @@ Demo Video
 This project is demonstrated by:
 
 I am Tvvlnarayana, and our team includes Vedanth,Sai Lakshman,Bhuvana sai,Ravi Teja . We are from  Chebrolu Engineering College, Chebrolu,Guntur, completing the SmartInternz Virtual Internship using IBM Granite. In this video, I will explain our HealthAI project and showcase its features.
-link:
+link:https://github.com/Narayana42A5/Health-ai-intelligent-health-care-assistant-using-IBM-granite/blob/main/README.md
 
 
 
