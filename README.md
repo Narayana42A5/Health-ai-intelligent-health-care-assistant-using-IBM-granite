@@ -5,11 +5,17 @@ Project by: Tirlika veera venkata lakshmi narayana(TEAM LEADER), Vedanth Pendem,
 
 📌 Project Description
 The purpose of this project is to develop an intelligent health care assistant that utilizes AI and machine learning to provide personalized health recommendations and support to patients. The goal is to improve patient outcomes and enhance the overall quality of care. Features:
+
 💬Patient profile management
+
 💬Symptom analysis and diagnosis
+
 💬Personalized health recommendations
+
 💬Medication reminders and tracking
+
 💬Integration with wearable devices and health trackers
+
 💬AI-powered chatbots for patient support
 
 Demo Video
